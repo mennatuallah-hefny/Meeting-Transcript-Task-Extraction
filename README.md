@@ -19,7 +19,6 @@ This project automates the extraction of actionable tasks from meeting transcrip
    - Task Name
    - Task Description
    - Assignee
-   - Status
    - Deadline
 4. **Mapping:** Insert the extracted data into an Airtable Tasks table.
 
@@ -51,7 +50,8 @@ This project automates the extraction of actionable tasks from meeting transcrip
   - Task ID 
   - Task Name  
   - Description  
-  - Assignee  
+  - Assignee
+  - Status
   - Deadline  
 
 ## Usage
