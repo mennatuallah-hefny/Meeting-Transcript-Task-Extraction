@@ -19,6 +19,7 @@ This project automates the extraction of actionable tasks from meeting transcrip
    - Task Name
    - Task Description
    - Assignee
+   - Status
    - Deadline
 4. **Mapping:** Insert the extracted data into an Airtable Tasks table.
 
@@ -47,10 +48,11 @@ This project automates the extraction of actionable tasks from meeting transcrip
   Link a specific folder for PDF uploads.
 - **Airtable Table:**  
   Configure a table named `Tasks` with columns:
-  - Task Name (Text)
-  - Description (Long Text)
-  - Assignee (Text)
-  - Deadline (Date)
+  - Task ID 
+  - Task Name  
+  - Description  
+  - Assignee  
+  - Deadline  
 
 ## Usage
 1. Upload a PDF to the designated Google Drive folder.
