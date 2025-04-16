@@ -14,7 +14,7 @@ This project automates the extraction of actionable tasks from meeting transcrip
 
 ## Architecture & Workflow
 1. **Trigger:** PDF upload to a specific Google Drive folder.
-2. **Extraction:** Use a PDF parsing module to convert the meeting transcript to text.
+2. **Extraction:** Use a PDF.co to convert the meeting transcript to text.
 3. **LLM Processing:** Send the text to an LLM endpoint that extracts:
    - Task Name
    - Task Description
