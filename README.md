@@ -22,7 +22,7 @@ This project automates the extraction of actionable tasks from meeting transcrip
    - Deadline
 4. **Mapping:** Insert the extracted data into an Airtable Tasks table.
 
-## 🚀 Setup & Deployment
+## Setup & Deployment
 
 1. **Clone Repo**
    ```bash
